@@ -1,0 +1,28 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="extras;intel;Hardware_Accelerated_Execution_Manager#7.3.2" />
+      <item value="system-images;android-23;google_apis;armeabi-v7a#30" />
+      <item value="system-images;android-25;google_apis;x86#15" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="AI-191.6183.62.35.5416148" />
+    <option name="LAST_TIME_CHECKED" value="1555217020658" />
+    <pluginHosts>
+      <item value="https://plugins.jetbrains.com/plugin/7647-android-material-design-icon-generator" />
+      <item value="https://github.com/anupcowkur/here-be-dragons" />
+      <item value="https://github.com/JustSid/AfterglowIntelliJ" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
