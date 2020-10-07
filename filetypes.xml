@@ -4,6 +4,7 @@
       <mapping pattern="languages" type="DBN-SQL" />
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
