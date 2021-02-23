@@ -1,5 +1,11 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Android/Override Resource in Other Configuration..." />
+    <ignoreAction name="Android/Add Parcelable Implementation" />
+    <ignoreAction name="Android/Remove Parcelable Implementation" />
+    <ignoreAction name="Android/Replace Parcelable Implementation" />
+    <ignoreAction name="Kotlin Android/Add Parcelable Implementation" />
+    <ignoreAction name="Kotlin Android/Remove Parcelable Implementation" />
+    <ignoreAction name="Kotlin Android/Replace Parcelable Implementation" />
   </component>
 </application>
