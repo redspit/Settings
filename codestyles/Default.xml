@@ -25,9 +25,6 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
-  <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="500" />
-  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
