@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="compactStatusBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -17,6 +18,6 @@
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="33a3ba72:17450300a6e:-7ffb" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.7.2" />
   </component>
 </application>
