@@ -3,6 +3,7 @@
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Dart Analysis" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="JDK Location different to JAVA_HOME" displayType="NONE" shouldLog="false" />
     <notification groupId="Plugin Error" displayType="NONE" />
   </component>
 </application>
