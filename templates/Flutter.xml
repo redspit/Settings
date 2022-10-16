@@ -25,4 +25,7 @@
     <variable name="text" expression="&quot;text&quot;" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="importM" value="import 'package:flutter/material.dart';" description="Import Material Package" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
